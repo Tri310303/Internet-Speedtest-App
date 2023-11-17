@@ -1,0 +1,63 @@
+Download Speed: 298.27 Mbps
+Upload Speed: 241.88 Mbps
+Ping: 9 ms
+
+Download Speed: 298.4 Mbps
+Upload Speed: 223.2 Mbps
+Ping: 5 ms
+
+Download Speed: 298.4 Mbps
+Upload Speed: 223.2 Mbps
+Ping: 5 ms
+
+Download Speed: 296.21 Mbps
+Upload Speed: 234.07 Mbps
+Ping: 4 ms
+ 
+Download Speed: 292.08 Mbps
+Upload Speed: 217.99 Mbps
+Ping: 7 ms
+ 
+Download Speed: 295.84 Mbps
+Upload Speed: 226.3 Mbps
+Ping: 8 ms
+ 
+Download Speed: 303.07 Mbps
+Upload Speed: 225.32 Mbps
+Ping: 4 ms
+ 
+Download Speed: 300.73 Mbps
+Upload Speed: 224.01 Mbps
+Ping: 8 ms
+ 
+Download Speed: 244.72 Mbps
+Upload Speed: 240.15 Mbps
+Ping: 16 ms
+ 
+Download Speed: 298.08 Mbps
+Upload Speed: 252.69 Mbps
+Ping: 13 ms
+ 
+Download Speed: 313.27 Mbps
+Upload Speed: 224.29 Mbps
+Ping: 13 ms
+
+Download Speed: 5.73 Mbps
+Upload Speed: 6.05 Mbps
+Ping: 11 ms
+Time: 13:33:25 15-11-23 
+ 
+Download Speed: 5.84 Mbps
+Upload Speed: 5.68 Mbps
+Ping: 12 ms
+Time: 09:27:37 17-11-23 
+ 
+Download Speed: 5.79 Mbps
+Upload Speed: 6.19 Mbps
+Ping: 9 ms
+Time: 09:28:04 17-11-23 
+ 
+Download Speed: 5.77 Mbps
+Upload Speed: 5.64 Mbps
+Ping: 7 ms
+Time: 09:28:31 17-11-23 
